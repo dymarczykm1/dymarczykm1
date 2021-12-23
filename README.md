@@ -2,7 +2,7 @@
 Currently working as a trader in the securitized products space. 
 Would love to collaborate with anyone currently working as an algo trader. 
 
-My finance folder is filled with random ideas about math/finance.
+My finance folder is filled with random ideas about math/finance. I unfortunately cannot share any real world trading examples/data analysis.
 
 The optimizer for DFS comes from https://www.nicksniche.net/ and the fantasy football pandas exploration comes from https://www.fantasyfootballdatapros.com/.
 
