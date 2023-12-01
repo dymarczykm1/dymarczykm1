@@ -1,5 +1,5 @@
 ## About Me
-Currently working as a analyst in the securitized products space.
+Currently working as an analyst in the securitized products space.
 
 My finance folder is filled with random ideas about math/finance. I unfortunately cannot share any real world trading examples/data analysis.
 
