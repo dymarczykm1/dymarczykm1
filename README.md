@@ -6,7 +6,7 @@ My finance folder is filled with random ideas and code I found/tinkered about ma
 My Emacs setup is for the non-technical user (such as myself) to hopefully help someoene else who was searching the internet non-stop with questions that they had.
 
 ## Emacs Basic Setup
-These changes should be dropped into the .emacs file if using a Mac. I am unsure what the file is called on Windows.
+These changes should be dropped into the .emacs file if using a Mac.
 
 You can add multiple languages for Org Mode using Org Babel if you would like using the same format as R and Python below.
 ```sh
