@@ -16,13 +16,6 @@ You can add multiple languages for Org Mode using Org Babel if you would like us
  '((R . t)
    (python . t)))
 ```
-```sh
-;; To active Babel languages
-(org-babel-do-load-languages
- 'org-babel-load-languages
- '((R . t)
-   (python . t)))
-```
 Running code blocks usually wants you to confirm if you would like run it. This will bypass that message and run the block on command.
 ```sh
 ;; To get rid of the y/n confirm when running code blocks
